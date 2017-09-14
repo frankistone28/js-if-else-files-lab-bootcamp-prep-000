@@ -1,5 +1,5 @@
 var name = "Susan"
-var height = "74"
+var height = parseInt("74")
 
 if(name === "Susan"){
   console.log("You got the name");
