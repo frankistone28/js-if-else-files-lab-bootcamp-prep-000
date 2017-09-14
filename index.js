@@ -1,12 +1,8 @@
 var name = "Susan"
-var height = "70"
+var height = "74"
 
 if(name === "Susan"){
   console.log("You got the name");
-}
-
-else if(height === 74){
-  console.log("You got the height");
 }
 
 else{
